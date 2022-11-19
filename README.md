@@ -1,9 +1,7 @@
-Jag är en självlärd Frontend-utvecklare (och egenföretagare) med strax över ett års praktisk erfarenhet av att bygga projekt med det allra senaste från HTML5, CSS och Javascript (ES6+). Jag arbetar för närvarande som frilansare för ett par återkommande företagskunder. Node.js med npm-paketet Express.js har i dagsläget varit mitt enda äventyr inom Backend-utveckling, och det i samband med API-byggen och dess routing.
+En självlärd Frontend-utvecklare med praktisk erfarenhet av att bygga projekt med branschbeprövad teknologi. Min karriär har varit inom cirkulär ekonomi av hemelektronik, men passionen för systemutveckling har påtvingat ett karriärsbyte. Utöver en god expertis inom hårdvara är jag också en ödmjuk lagspelare. Intresserad av juniora jobb-erbjudanden som jag kan bidra till från start samtidigt som jag fortsätter utveckla min kunskapsbas.
 
-Erfarenhet utav LAMP (Linux, Apache, MySQL och PHP) och självhosting på egna servrar (från forntiden, innan vi visste något om några moln). Har god kännedom om Wordpress; både som dess användare (drivit en medelstor e-handel med Woocommerce) och som dess utvecklare (på juniornivå).
+Jag har en absolut trespråkighet i svenska, bosniska och engelska, både i tal och skrift. Haft längre sejourer i Kina inom yrket, och känner mig väldigt trygg i att navigera diverse dynamiska, sociala och kulturella miljöer.
 
-En tidigare karriär inom inköp, försäljning och distribution utav hemelektronik – både som anställd och egenföretagare, men även då slog hjärtat för programmering. Från denna arbetsperiod har jag byggt upp god expertis inom alla delar hårdvara/hardware. Jag var även huvudansvarig för de egentillverkade produkter och bidrog med allt från design till tillverkning.
+Som egenföretagare inom e-handel mot slutkonsument såväl som mot större företagskunder har jag utvecklat rutin för kundbevarande och kommunikation mot kund."
 
-Jag är ödmjuk och öppen för juniora jobberbjudanden inom Frontend som hjälper mig byta ut tiden som går åt till bokföring m.m. till fler timmar framför VS code för systemutveckling.
-
-HTML | CSS | Javascript | Node.js | Bootstrap | Git
+HTML | CSS | JavaScript | Node.js | Express | MongoDB
