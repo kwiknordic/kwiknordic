@@ -2,6 +2,6 @@ En självlärd Frontend-utvecklare med praktisk erfarenhet av att bygga projekt 
 
 Jag har en absolut trespråkighet i svenska, bosniska och engelska, både i tal och skrift. Haft längre sejourer i Kina inom yrket, och känner mig väldigt trygg i att navigera diverse dynamiska, sociala och kulturella miljöer.
 
-Som egenföretagare inom e-handel mot slutkonsument såväl som mot större företagskunder har jag utvecklat rutin för kundbevarande och kommunikation mot kund."
+Som egenföretagare inom e-handel mot slutkonsument såväl som mot större företagskunder har jag utvecklat rutin för kundbevarande och kommunikation mot kund.
 
 HTML | CSS | JavaScript | Node.js | Express | MongoDB
