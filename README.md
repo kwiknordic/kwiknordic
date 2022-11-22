@@ -4,4 +4,4 @@ Jag har en absolut trespråkighet i svenska, bosniska och engelska, både i tal 
 
 Som egenföretagare inom e-handel mot slutkonsument såväl som mot större företagskunder har jag utvecklat rutin för kundbevarande och kommunikation mot kund.
 
-HTML | CSS | JavaScript | Node.js | Express | MongoDB
+HTML | CSS | JavaScript | React | Node.js | Express | MongoDB
