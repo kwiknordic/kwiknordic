@@ -1,7 +1,5 @@
-En självlärd Frontend-utvecklare med praktisk erfarenhet av att bygga projekt med branschbeprövad teknologi. Min karriär har varit inom cirkulär ekonomi av hemelektronik, men passionen för systemutveckling har påtvingat ett karriärsbyte. Utöver en god expertis inom hårdvara är jag också en ödmjuk lagspelare. Intresserad av juniora jobb-erbjudanden som jag kan bidra till från start samtidigt som jag fortsätter utveckla min kunskapsbas.
+Fullstack-utvecklare som, bland annat, är stark på ehandel och interna verktyg. Drivit eget företag med fokus på tekniska lösningar för cirkulär ekonomi inom hemelektronik.
 
-Jag har en absolut trespråkighet i svenska, bosniska och engelska, både i tal och skrift. Haft längre sejourer i Kina inom yrket, och känner mig väldigt trygg i att navigera diverse dynamiska, sociala och kulturella miljöer.
+Jag har en absolut trespråkighet i svenska, bosniska och engelska, både i tal och skrift. Haft inom yrket längre utomeuropeiska sejourer och känner mig trygg i alla typer av dynamiska, sociala och kulturella miljöer. Har stor intern drivkraft men prioriterar gruppen framför jaget.
 
-Som egenföretagare inom e-handel mot slutkonsument såväl som mot större företagskunder har jag utvecklat rutin för kundbevarande och kommunikation mot kund.
-
-HTML | CSS | TypeScript | JavaScript | React | Node.js | Express | MongoDB | SCSS | Tailwind CSS
+Som egenföretagare har jag även utvecklat fingertoppskänsla för kundbevarande och kommunikation mot kund.
